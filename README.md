@@ -114,10 +114,3 @@ Grafikler `outputs/` klasörüne kaydedilir.
 pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ---
-
-## Teslim
-
-GitHub repository linki e-posta ile gönderilir:
-
-- **Adres:** info@turkiyeyapayzekaakademisi.com
-- **Konu:** Makine Öğrenmesi Final Ödev – Yunus Büyükkafes
